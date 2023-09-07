@@ -1,4 +1,4 @@
-# [![Pylint Score of storeSensors](https://img.shields.io/badge/storeSensors%20Pylint%20Score-8.421052631578947-yellow.svg)]
+# {[![Pylint Score of storeSensors](https://img.shields.io/badge/storeSensors%20Pylint%20Score-8.421052631578947-yellow.svg)]}
 def get_existing_users(PASSWORD_FNAME):
     with open(PASSWORD_FNAME,'r' ) as fp:
          for line in fp.readlines():
